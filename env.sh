@@ -1,1 +1,1 @@
-export SPARK_MASTER=10.10.1.1
+export SPARK_MASTER=10.128.0.8
